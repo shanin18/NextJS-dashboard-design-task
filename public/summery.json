@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sales",
+    "revenue": 2500000,
+    "expenses": 1500000,
+    "profit": 1000000
+  },
+  {
+    "name": "Operations",
+    "revenue": 1800000,
+    "expenses": 1300000,
+    "profit": 500000
+  },
+  {
+    "name": "Marketing",
+    "revenue": 700000,
+    "expenses": 500000,
+    "profit": 200000
+  },
+  {
+    "name": "Finance",
+    "revenue": 600000,
+    "expenses": 400000,
+    "profit": 200000
+  },
+  {
+    "name": "Human Resources",
+    "revenue": 100000,
+    "expenses": 70000,
+    "profit": 30000
+  }
+]

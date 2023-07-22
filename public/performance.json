@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Total Sales",
+    "total": "$2,456",
+    "img": "https://i.ibb.co/QP69XQx/u-shopping-bag.png"
+  },
+  {
+    "title": "Total Expenses",
+    "total": "$3,326",
+    "img": "https://i.ibb.co/ZHJGT3Q/u-shop.png"
+  },
+  {
+    "title": "Total Visions",
+    "total": "$5,325",
+    "img": "https://i.ibb.co/c3N1ByF/u-users-alt.png"
+  },
+  {
+    "title": "Total Orders",
+    "total": "$1,326",
+    "img": "https://i.ibb.co/SR5NF5K/u-list-ui-alt.png"
+  }
+]
